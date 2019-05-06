@@ -17,6 +17,7 @@ my %default_configs = (
     Indent => 1,
     Purity => 1,
     Terse  => 1,
+    Useqq  => 1,
 );
 
 sub import {
