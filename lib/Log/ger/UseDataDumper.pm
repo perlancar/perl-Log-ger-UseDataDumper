@@ -63,6 +63,7 @@ closer to that of L<Data::Dump>:
  Indent => 1,
  Purity => 1,
  Terse  => 1,
+ Useqq  => 1,
 
 This module also lets you configure Data::Dumper during import (see example in
 Synopsis).
